@@ -1,0 +1,3 @@
+- 👋 안녕하세요 저는 @naijun0403 입니다!
+- 👀 저는 Kotlin, Typescript를 주력으로 하고있어요!
+- 🌱 기회가 된다면, golang이나 rust를 배워보고싶네요
